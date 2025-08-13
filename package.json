@@ -1,0 +1,26 @@
+{
+	"name": "@kenan/biome-config",
+	"version": "0.0.0",
+	"description": "kenany's biome config",
+	"license": "MIT",
+	"author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
+	"files": [
+		"biome.jsonc"
+	],
+	"main": "./biome.jsonc",
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"scripts": {
+		"release": "semantic-release"
+	},
+	"packageManager": "pnpm@10.14.0",
+	"devDependencies": {
+		"@biomejs/biome": "2.1.2",
+		"@semantic-release/changelog": "6.0.3",
+		"@semantic-release/git": "10.0.1",
+		"conventional-changelog-conventionalcommits": "9.1.0",
+		"semantic-release": "24.2.7"
+	}
+}
