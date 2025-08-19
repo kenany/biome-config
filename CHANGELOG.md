@@ -1,3 +1,9 @@
+## [1.0.2](https://github.com/kenany/biome-config/compare/v1.0.1...v1.0.2) (2025-08-19)
+
+### Bug Fixes
+
+* disable a few rules ([593aa7d](https://github.com/kenany/biome-config/commit/593aa7d90acd70977d375b1918bd769093da0fae))
+
 ## [1.0.1](https://github.com/kenany/biome-config/compare/v1.0.0...v1.0.1) (2025-08-19)
 
 ### Bug Fixes
