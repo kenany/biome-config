@@ -237,7 +237,7 @@
         },
         "useExhaustiveSwitchCases": "error",
         "useImageSize": "error",
-        "useMaxParams": "error",
+        "useMaxParams": "off",
         "useQwikClasslist": "error",
         "useReactFunctionComponents": "error",
         "noSecrets": "off",
