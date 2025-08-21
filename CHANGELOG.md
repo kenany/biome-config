@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/kenany/biome-config/compare/v1.0.2...v1.0.3) (2025-08-21)
+
+### Bug Fixes
+
+* disable useMaxParams ([8875330](https://github.com/kenany/biome-config/commit/887533025a4f8ea644f982a7da4d9f2be49af46f))
+
 ## [1.0.2](https://github.com/kenany/biome-config/compare/v1.0.1...v1.0.2) (2025-08-19)
 
 ### Bug Fixes
