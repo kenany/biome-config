@@ -16,7 +16,7 @@
     "lint": "biome check .",
     "release": "semantic-release"
   },
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@10.15.0",
   "peerDependencies": {
     "@biomejs/biome": "^2.2.0"
   },
