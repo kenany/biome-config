@@ -1,3 +1,9 @@
+## [1.0.4](https://github.com/kenany/biome-config/compare/v1.0.3...v1.0.4) (2025-08-25)
+
+### Bug Fixes
+
+* **deps:** @biomejs/biome@2.2.2 ([25659d8](https://github.com/kenany/biome-config/commit/25659d8d4b6423dfebe49ff6db906e6cf1913547))
+
 ## [1.0.3](https://github.com/kenany/biome-config/compare/v1.0.2...v1.0.3) (2025-08-21)
 
 ### Bug Fixes
