@@ -18,10 +18,10 @@
   },
   "packageManager": "pnpm@10.16.1",
   "peerDependencies": {
-    "@biomejs/biome": "^2.2.2"
+    "@biomejs/biome": "^2.2.4"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.2.2",
+    "@biomejs/biome": "2.2.4",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "conventional-changelog-conventionalcommits": "9.1.0",
