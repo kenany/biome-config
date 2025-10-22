@@ -1,3 +1,9 @@
+## [1.0.5](https://github.com/kenany/biome-config/compare/v1.0.4...v1.0.5) (2025-10-22)
+
+### Bug Fixes
+
+* **ci:** use trusted publisher ([feec344](https://github.com/kenany/biome-config/commit/feec344ea6c952ce41e746a5b404c1a4fd4b5582))
+
 ## [1.0.4](https://github.com/kenany/biome-config/compare/v1.0.3...v1.0.4) (2025-08-25)
 
 ### Bug Fixes
