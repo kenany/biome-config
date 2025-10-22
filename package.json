@@ -4,6 +4,7 @@
   "description": "kenany's biome config",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
+  "repository": "github:kenany/biome-config",
   "files": [
     "biome.jsonc"
   ],
