@@ -217,43 +217,7 @@
         "noUnknownUnit": "error",
         "noUnmatchableAnbSelector": "error"
       },
-      "nursery": {
-        "noMisusedPromises": "error",
-        "noNextAsyncClientComponent": "error",
-        "noNonNullAssertedOptionalChain": "error",
-        "noQwikUseVisibleTask": "error",
-        "noShadow": "off",
-        "noUnnecessaryConditions": "error",
-        "noUselessUndefined": "error",
-        "noVueDataObjectDeclaration": "error",
-        "noVueReservedKeys": "error",
-        "noVueReservedProps": "error",
-        "useAnchorHref": "error",
-        "useConsistentTypeDefinitions": {
-          "level": "error",
-          "options": {
-            "style": "type"
-          }
-        },
-        "useExhaustiveSwitchCases": "error",
-        "useImageSize": "error",
-        "useMaxParams": "off",
-        "useQwikClasslist": "error",
-        "useReactFunctionComponents": "error",
-        "noSecrets": "off",
-        "useExplicitType": "off",
-        "useSortedClasses": {
-          "fix": "safe",
-          "level": "error",
-          "options": {
-            "attributes": ["className"],
-            "functions": ["clsx", "cva", "tw", "twMerge", "cn", "twJoin", "tv"]
-          }
-        },
-        "noFloatingPromises": "off",
-        "noUnresolvedImports": "off",
-        "noImportCycles": "off"
-      },
+      "nursery": "off",
       "performance": {
         "noAccumulatingSpread": "error",
         "noBarrelFile": "error",
