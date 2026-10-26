@@ -4,5 +4,11 @@
     "config:best-practices",
     "local>kenany/renovate-config",
     ":assignAndReview(kenany)"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["@biomejs/biome"],
+      "semanticCommitType": "feat"
+    }
   ]
 }
