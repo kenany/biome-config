@@ -54,7 +54,7 @@ jobs:
         run: pnpm run lint
 
   release:
-    needs: [lint]
+    needs: [ lint ]
     if: github.repository == 'kenany/biome-config' && github.event_name != 'pull_request'
     runs-on: ubuntu-26.04
     permissions:
